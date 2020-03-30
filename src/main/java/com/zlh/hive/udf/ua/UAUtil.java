@@ -1,4 +1,4 @@
-package com.zlh.udf.hive.ua;
+package com.zlh.hive.udf.ua;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

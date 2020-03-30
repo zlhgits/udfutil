@@ -1,4 +1,4 @@
-package com.zlh.udf.hive.ua;
+package com.zlh.hive.udf.ua;
 
 import org.apache.hadoop.hive.ql.exec.UDF;
 import org.apache.hadoop.io.Text;
